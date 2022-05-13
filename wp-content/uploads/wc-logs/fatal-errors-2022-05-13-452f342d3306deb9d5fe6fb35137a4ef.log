@@ -1,0 +1,2 @@
+2022-05-13T10:47:40+00:00 CRITICAL Out of memory (allocated 79691776) (tried to allocate 32768 bytes) in C:\xampp\htdocs\ecommerce-wp\wordpress-5.9.3\wordpress\wp-content\plugins\woocommerce\includes\emails\class-wc-email-customer-new-account.php on line 1
+
